@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Anthony Bowser 👋
 
-<!--
-**InvestLuxPro/InvestLuxPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Southern New Hampshire University with a background in operations management, marketing, and business systems. I enjoy building Python programs, solving problems, and learning how technology can improve business processes.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Data Analysis
+- Problem Solving
+- Business Operations
+- Process Improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Python Text Adventure Game
+A command-line adventure game built in Python demonstrating room navigation, item collection, and game logic.
+
+🔗 https://github.com/InvestLuxPro/python-text-adventure-game
+
+### Python Password Generator
+A Python utility that generates random secure passwords based on user-selected criteria such as length and character types.
+
+🔗 https://github.com/InvestLuxPro/python-password-generator
+
+### Simple Data Analyzer
+A Python program that analyzes numeric data and calculates summary statistics such as count, total, average, highest value, and lowest value.
+
+🔗 https://github.com/InvestLuxPro/simple-data-analyzer
+
+## Currently Learning
+- Python programming
+- Data analysis
+- Software development fundamentals
+
+## Connect With Me
+🔗 LinkedIn: https://www.linkedin.com/in/anthony-bowser-1366395a/
