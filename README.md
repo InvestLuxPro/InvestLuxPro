@@ -60,4 +60,4 @@ A Python program that analyzes numeric data and calculates summary statistics su
 ## 🔗 Connect With Me
 
 LinkedIn:  
-https://www.linkedin.com/in/anthony-bowser-1366395a/
+[https://www.linkedin.com/in/anthony-bowser-1366395a/](https://www.linkedin.com/in/anthonybowser/)
