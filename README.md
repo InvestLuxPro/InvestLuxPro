@@ -24,21 +24,21 @@ Computer Science student at Southern New Hampshire University with a background 
 ### Python Text Adventure Game
 A command-line adventure game built in Python demonstrating room navigation, item collection, and game logic.
 
-🔗 https://github.com/InvestLuxPro/python-text-adventure-game
+🔗 [https://github.com/InvestLuxPro/python-text-adventure-game](https://github.com/InvestLuxPro/python-text-adventure-game)
 
 ---
 
-### Python Password Generator
-A Python utility that generates random secure passwords based on user-selected criteria such as length and character types.
+### Business Operations Dashboard
+A Python-based dashboard that analyzes sales data, generates key business insights, and visualizes performance trends using charts.
 
-🔗 https://github.com/InvestLuxPro/python-password-generator
+🔗 [https://github.com/InvestLuxPro/python-password-generator](https://github.com/InvestLuxPro/business-operations-dashboard)
 
 ---
 
-### Simple Data Analyzer
-A Python program that analyzes numeric data and calculates summary statistics such as count, total, average, highest value, and lowest value.
+### Python Weather App
+A simple command-line Python application that retrieves real-time weather data for any city using the OpenWeather API.
 
-🔗 https://github.com/InvestLuxPro/simple-data-analyzer
+🔗 [https://github.com/InvestLuxPro/simple-data-analyzer](https://github.com/InvestLuxPro/python-weather-app)
 
 ---
 
