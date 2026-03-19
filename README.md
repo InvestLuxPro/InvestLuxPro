@@ -19,6 +19,14 @@ Computer Science student at Southern New Hampshire University focused on Python,
 
 ---
 
+## 🛠️ What I'm Working On
+
+- Building Python projects that combine business operations and technology
+- Growing my skills in APIs, data analysis, and automation
+- Expanding my portfolio for software, analyst, and technical roles
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌤️ Python Weather App
