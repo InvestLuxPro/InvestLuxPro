@@ -12,18 +12,18 @@ Computer Science student at Southern New Hampshire University focused on Python,
 
 ---
 
+## 🛠️ What I'm Working On
+
+- Building Python projects that combine business operations and technology  
+- Expanding skills in APIs, data analysis, and automation  
+- Growing a portfolio for software and analyst roles
+
+---
+
 ## 📊 GitHub Stats
 
 ![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvestLuxPro&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InvestLuxPro&layout=compact)
-
----
-
-## 🛠️ What I'm Working On
-
-- Building Python projects that combine business operations and technology
-- Growing my skills in APIs, data analysis, and automation
-- Expanding my portfolio for software, analyst, and technical roles
 
 ---
 
